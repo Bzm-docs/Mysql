@@ -5,4 +5,5 @@
 
 
 
-![](README.assets/Mysq学习.jpg)
+![](笔记/Mysq学习.assets/Mysq学习.jpg)
+
